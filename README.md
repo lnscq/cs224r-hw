@@ -8,8 +8,7 @@
 
 ## 📸 演示视频
 
-![]([img\imageData.gif](https://github.com/lnscq/cs224r-hw/blob/main/img/imageData.gif))
-
+![](https://raw.githubusercontent.com/lnscq/cs224r-hw/refs/heads/main/img/imageData.gif)
 ---
 
 ## ✅ 实验成果
