@@ -8,7 +8,7 @@
 
 ## 📸 演示视频
 
-![](img\imageData.gif)
+![]([img\imageData.gif](https://github.com/lnscq/cs224r-hw/blob/main/img/imageData.gif))
 
 ---
 
